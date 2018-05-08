@@ -1,0 +1,7 @@
+﻿  Search.cpp
+e:\fcis\2nd year\ds project\google search final version\google search\search.cpp(114): warning C4018: '<': signed/unsigned mismatch
+e:\fcis\2nd year\ds project\google search final version\google search\search.cpp(117): warning C4566: character represented by universal-character-name '\u060C' cannot be represented in the current code page (1252)
+e:\fcis\2nd year\ds project\google search final version\google search\search.cpp(131): warning C4018: '<': signed/unsigned mismatch
+e:\fcis\2nd year\ds project\google search final version\google search\search.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  Google Search.vcxproj -> E:\FCIS\2nd year\DS project\Google Search FINAL VERSION\Debug\Google Search.exe
+  Google Search.vcxproj -> E:\FCIS\2nd year\DS project\Google Search FINAL VERSION\Debug\Google Search.pdb (Full PDB)
